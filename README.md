@@ -1,2 +1,6 @@
 # ContentProgvider
 contentProvider demo
+
+StudentInfomation中创建数据库，以及实现增删查改功能
+Observer用于监控StudentInfomation的变化
+TryContentProvider用于获取StudentInfomation中数据库的数据

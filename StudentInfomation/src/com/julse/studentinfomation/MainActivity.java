@@ -49,7 +49,7 @@ public class MainActivity extends Activity {
         		new String[]{"stuNo","stuName"}, 
         		new int[]{R.id.text_id,R.id.text_name},0//flag
         		);
-        
+
         listView.setAdapter(sca);
         
         btn_insert.setOnClickListener(new OnClickListener() {
